@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+
+# Virtual Environment
+bin/
+include/
+lib/
+pyvenv.cfg
+
+# Test Output
+assets/
+*.html
+*.xml
